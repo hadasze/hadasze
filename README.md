@@ -11,7 +11,7 @@
 These are some of my projects
 ---------------------------------------------------------------------
 
-- 👉Event management app - EventIt project
+- 👉 Event management app - EventIt project
 - Server-Client Application for buying product and manage stores
 - Server side - Java, Spring Boot Application
 - Client side - React, NodeJS
@@ -20,7 +20,7 @@ These are some of my projects
 
 --------------------------------------------------------
 
-- 👉Trading System - Ali Bamba project
+- 👉 Trading System - Ali Bamba project
 - Server-Client Application for buying product and manage stores
 - Server side - Java, Spring Boot Application
 - Client side - React, NodeJS
