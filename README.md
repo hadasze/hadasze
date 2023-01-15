@@ -11,12 +11,12 @@
 These are some of my projects
 ---------------------------------------------------------------------
 
-- 👉Trading System - Ali Bamba project
+- 👉Event management app - EventIt project
 - Server-Client Application for buying product and manage stores
 - Server side - Java, Spring Boot Application
 - Client side - React, NodeJS
 - Data Bases - Hibernate ORM, postgres local DB, 
-- https://github.com/amitrub/Trading-System.git
+- https://github.com/amitrub/Final-Project
 
 --------------------------------------------------------
 
