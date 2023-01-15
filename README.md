@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hadas Zeira
-- 👀 I’m interested to show you some of my projects
-- 🌱 Graduated Software Engineering at Ben-Gurion University (B.Sc.). 
 - 💞️ I’m a Front End Developer at Wix, Tel Aviv.
+- 🌱 Graduated Software Engineering at Ben-Gurion University (B.Sc.). 
+- 👀 I’m interested to show you some of my projects
 - 📫 How to reach me ?
 - ✔ ID. 204778419                          
 - ✔ Phone num. +972-533407634                                      
